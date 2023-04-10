@@ -1,0 +1,20 @@
+h1{
+font-size: 80px;
+font-family: Crazy beaver;
+text-align: 10px left;
+color:#ffffff;
+}
+h2{
+font-size:25px;
+font-family: karrik;
+text-align:left;
+color:#ffffff;  
+}
+body{
+font-size: 16px;
+font-family: Garamond;
+color: #e06666;
+}
+body {
+	background-image:url(images/background.jpg)
+}
