@@ -1,7 +1,7 @@
 body{
 font-size: 16px;
 font-family: Helvetica, sans-serif;
-color: #242424;
+color: #ffffff;
 background-image:url(images/AU-FG-Texture1-8K.jpg);
 }
 img{
@@ -10,13 +10,13 @@ height : auto;
 {
 h1{
 font-size: 80px;
-font-family: Helvetica, sans-serif;
+font-family:url(unepartdemoi/fonts/CRAZB___.TTF);
 text-align:left;
 color:#ffffff;
 }
 h2{
 font-size:25px;
-font-family: Helvetica, sans-serif;
+font-family:url(unepartdemoi/fonts/CRAZB___.TTF);
 text-align:left;
 color:#ffffff;  
 }
