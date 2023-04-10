@@ -1,16 +1,10 @@
-body{
-font-size: 16px;
-font-family: Helvetica, sans-serif;
-color: #ffffff;
-background-image:url(images/AU-FG-Texture1-8K.jpg);
-}
-img{
-witdth : 30px;
-height : auto;
-{
 h1{
-font-size: 80px;
-font-family:url('/fonts/CRAZB___.woff');
+  @font-face {
+  font-family: "Crazy Beaver";
+  src: local("CRAZB___.woff"),
+    url("/fonts/CRAZB___.woff") format("woff");
+}
+font-size: 50px;
 text-align:left;
 color:#ffffff;
 }
@@ -19,4 +13,10 @@ font-size:25px;
 font-family:url('/fonts/CRAZB___.woff');
 text-align:left;
 color:#ffffff;  
+}
+body{
+font-size: 13px;
+font-family: Helvetica, sans-serif;
+color: #ffffff;
+background-image:url(images/AU-FG-Texture1-8K.jpg);
 }
