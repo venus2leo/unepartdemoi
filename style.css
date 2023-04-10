@@ -1,18 +1,18 @@
 h1{
 font-size: 80px;
-font-family: Crazy beaver;
+font-family: arial;
 text-align: 10px left;
 color:#ffffff;
 }
 h2{
 font-size:25px;
-font-family: karrik;
+font-family: arial;
 text-align:left;
 color:#ffffff;  
 }
 body{
 font-size: 16px;
-font-family: Garamond;
+font-family: times;
 color: #e06666;
-background-image:url(images/background.jpg)
+background-image:url(images/AU-FG-Texture1-8K.jpg)
 }
