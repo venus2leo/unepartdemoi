@@ -10,13 +10,13 @@ height : auto;
 {
 h1{
 font-size: 80px;
-font-family:url('/fonts/CRAZB___.TTF');
+font-family:url('/fonts/CRAZB___.woff');
 text-align:left;
 color:#ffffff;
 }
 h2{
 font-size:25px;
-font-family:url('/fonts/CRAZB___.TTF');
+font-family:url('/fonts/CRAZB___.woff');
 text-align:left;
 color:#ffffff;  
 }
