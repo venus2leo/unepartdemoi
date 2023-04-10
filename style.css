@@ -1,8 +1,7 @@
 h1{
   @font-face {
   font-family: "Crazy Beaver";
-  src: local("CRAZB___.woff"),
-    url("/fonts/CRAZB___.woff") format("woff");
+  src: url("/fonts/CRAZB___.woff") format("woff");
 }
 font-size: 50px;
 text-align:left;
