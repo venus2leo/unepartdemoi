@@ -4,6 +4,10 @@ font-family: Helvetica, sans-serif;
 color: #242424;
 background-image:url(images/AU-FG-Texture1-8K.jpg);
 }
+img{
+witdth : 100px;
+height : auto;
+{
 h1{
 font-size: 80px;
 font-family: Helvetica, sans-serif;
@@ -16,7 +20,3 @@ font-family: Helvetica, sans-serif;
 text-align:left;
 color:#ffffff;  
 }
-img{
-witdth : 100px;
-height : auto;
-{
