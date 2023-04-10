@@ -1,26 +1,17 @@
+body{
+background-image:url(images/AU-FG-Texture1-8K.jpg);
+}
 h1{
 font-size: 80px;
-font-family: arial;
-text-align: 10px left;
+font-family: Helvetica, sans-serif;
+text-align:left;
 color:#ffffff;
 }
 h2{
 font-size:25px;
-font-family: arial;
+font-family: Helvetica, sans-serif;
 text-align:left;
 color:#ffffff;  
-}
-p {
-  width: 50px;
-  margin: 0 auto;
-  font-family: "Helvetica Neue", "Arial",  sans-serif;
-  font-weight: 100;
-  font-variant-ligatures: normal;
-  font-size: 2rem;
-  letter-spacing: 1px;
-}
-body{
-background-image:url(images/AU-FG-Texture1-8K.jpg)
 }
 img{
 witdth : 150px;
