@@ -1,4 +1,7 @@
 body{
+font-size: 16px;
+font-family: Helvetica, sans-serif;
+color: #242424;
 background-image:url(images/AU-FG-Texture1-8K.jpg);
 }
 h1{
@@ -15,5 +18,5 @@ color:#ffffff;
 }
 img{
 witdth : 150px;
-height : 150px;
+height : auto;
 {
